@@ -13,4 +13,7 @@ main #sec3 {background-image: url(images\desktop\image-stand-out.jpg);}
 main #sec4 {background-image: url();}
 main #sec5 {background-image: url(images\desktop\image-graphic-design.jpg);}
 main #sec6 {background-image: url(images\desktop\image-photography.jpg);}
+footer section {justify-items: center ;
+                background-color:rgb(130, 218, 240);
+                margin-top: 10% 0% 10% 0%;}
 
