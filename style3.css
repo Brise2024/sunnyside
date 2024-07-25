@@ -1,0 +1,15 @@
+
+body {zoom: 70%; }
+
+header {background-position: center;
+        background: url(image-header.jpg);
+        object-fit: contain;    
+        }
+header #sec {z-index: 100;}
+main #sec1 {background-image: url();}
+main #sec2 {background-image: url(image-transform.jpg);}
+main #sec3 {background-image: url(image-stand-out.jpg);}
+main #sec4 {background-image: url();}
+main #sec5 {background-image: url(image-graphic-design.jpg);}
+main #sec6 {background-image: url(image-photography.jpg);}
+
