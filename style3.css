@@ -1,6 +1,9 @@
 
 body {zoom: 70%;
-width: auto; }
+      width: auto;
+      font-family: Barlow;
+      h1 h2 h3 h5 {font-family: Fraunces;}
+     }
 
 header {background-position: center;
         background: url(images\desktop\image-header.jpg);
