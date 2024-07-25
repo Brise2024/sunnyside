@@ -1,5 +1,6 @@
 
-body {zoom: 70%; }
+body {zoom: 70%;
+width: auto; }
 
 header {background-position: center;
         background: url(images\desktop\image-header.jpg);
