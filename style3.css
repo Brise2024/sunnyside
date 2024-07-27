@@ -1,14 +1,16 @@
+body{zoom: 70%;
+        width: auto;
+        font-family: "Barlow", sans-serif;
+}
 
-body {zoom: 70%;
-      width: auto;
-      font-family: Barlow;
-      h1 h2 h3 h5 {font-family: Fraunces;}
-     }
+h1 h2 h3 h5{font-family: "Fraunces", serif;
+}
+
 
 header {background-position: center;
         background: url(images\desktop\image-header.jpg);
         object-fit: contain;    
-        }
+}
 header #sec {z-index: 100;}
 main #sec1 {background-image: url();}
 main #sec2 {background-image: url(images\desktop\image-transform.jpg);}
