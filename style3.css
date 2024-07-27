@@ -1,24 +1,24 @@
-body{zoom: 70%;
+/* body{zoom: 70%;
         width: auto;
         font-family: "Barlow", sans-serif;
 }
 
 h1 h2 h3 h5{font-family: "Fraunces", serif;
-}
+} */
 .imgheader{
         background-image: url(/images/imgdesk/image-header.jpg);
-        /* background-position: center;
+        background-position: center;
         width:100% ;
-        height: 100vh; */
+        height:100vh;
 
 }
 /* header #sec {z-index: 100;} */
 /* main #sec1 {background-image: url();}
-main #sec2 {background-image: url(images\desktop\image-transform.jpg);}
-main #sec3 {background-image: url(images\desktop\image-stand-out.jpg);}
+main #sec2 {background-image: url(images\imgdesk\image-transform.jpg);}
+main #sec3 {background-image: url(images\imgdesk\image-stand-out.jpg);}
 main #sec4 {background-image: url();}
-main #sec5 {background-image: url(images\desktop\image-graphic-design.jpg);}
-main #sec6 {background-image: url(images\desktop\image-photography.jpg);}
+main #sec5 {background-image: url(images\imgdesk\image-graphic-design.jpg);}
+main #sec6 {background-image: url(images\imgdesk\image-photography.jpg);}
 footer section {justify-items: center ;
                 background-color:rgb(130, 218, 240);
                 margin-top: 10% 0% 10% 0%;} */
