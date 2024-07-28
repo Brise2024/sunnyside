@@ -1,8 +1,11 @@
 body {  zoom: 50%;
-        width: 95%;
+        width: 91%;
         font-family: "Barlow", sans-serif;
         margin: auto;
         font-size: 45px;
+        border-color: black;
+    		border-width: 5px;
+    		border-style: solid;
       }
       
       h1 h2 h3 h4 h5 {
@@ -40,8 +43,6 @@ body {  zoom: 50%;
 
       #we {
         text-align: center;
-        /* display: flex;
-        justify-content: center; */
         position: absolute; 
         z-index: index 3;
       }
@@ -66,15 +67,16 @@ body {  zoom: 50%;
         width: 5rem;
         height: 10rem;
       }
-      li a {
+      .links li a {
         color: white;
         font-size: 3rem;
       }
       #contact {
-        color: white;
-        background-color: #83d2fa;
+        color: black;
+        background-color: white;
         border-radius: 5rem;
         padding: 1rem 2rem;
+        font-weight: bold;
       }
       
       main #sec1 {
@@ -169,7 +171,8 @@ body {  zoom: 50%;
       
       main #sec5 {
         display: grid;
-        justify-content: space-between;
+        display: flex;
+        justify-content: center;
         grid-template-columns: 25% 25% 25% 25%;
         width: 100%;
       }
@@ -178,13 +181,14 @@ body {  zoom: 50%;
         display: flex;
         justify-content: center;
         background-color: rgb(130, 218, 240);
-        color: rgb(65, 71, 82);
+        color: rgba(134, 140, 158, 0.918);
+        margin-top: -0.4%;
       }
 
       section h2 {
         text-align: center;
         padding-top: 5%;
-        padding-bottom: 4%;
+        padding-bottom: 1px;
 
       }
 
@@ -193,7 +197,22 @@ body {  zoom: 50%;
         justify-content: center;
         list-style-type: none;
         justify-content: space-between;
-        color: rgb(65, 71, 82);
-        gap: 6rem;
+        color: rgba(134, 140, 158, 0.918);
+        gap: 5rem;
+      }
+
+      .foot li a {
+        color: rgba(134, 140, 158, 0.918);
+        font-size: 2rem;
+      }
+
+      footer #divicon {
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+        padding-top: -4%;
+        padding-bottom: 15%;
+        font-size: 8rem;
+
       }
      
