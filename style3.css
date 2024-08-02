@@ -20,18 +20,20 @@ body {  zoom: 50%;
         background-image: url(images/mobile/image-header-min.jpg);
       }
 
-      header #we h1 {
-        /* display: flex; */
+      header #we {
         text-align: center;
         margin-bottom: 40px;
-        /* justify-content: center; */
       }
 
-      .icon-arrow-down {
-        width: 5rem;
-        height: 10rem;
+      header #we h1 {
+        font-size: 10rem;
       }
       
+      .icon-arrow-down {
+        height: 3%;
+        width: 3%;
+      }
+
       .menu {
         display: flex;
         justify-content: space-between;
